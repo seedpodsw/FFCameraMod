@@ -11,4 +11,4 @@ https://github.com/LavaGang/MelonLoader.Installer/blob/master/README.md#how-to-i
 
 ENJOY!!
 
-If you like what you see, come by on twitch.tv/topeveryday
+If you like what you see, come by on https://twitch.tv/topeveryday
